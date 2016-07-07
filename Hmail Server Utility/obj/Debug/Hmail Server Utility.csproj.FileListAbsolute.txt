@@ -1,0 +1,15 @@
+c:\users\akshay khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\bin\Debug\Hmail Server Utility.exe.config
+c:\users\akshay khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Debug\Hmail Server Utility.csprojResolveAssemblyReference.cache
+c:\users\akshay khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Debug\MainWindow.g.cs
+c:\users\akshay khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Debug\App.g.cs
+c:\users\akshay khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Debug\Hmail Server Utility_MarkupCompile.cache
+c:\users\akshay khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Debug\Hmail Server Utility_MarkupCompile.lref
+c:\users\akshay khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\bin\Debug\Hmail Server Utility.exe
+c:\users\akshay khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\bin\Debug\Hmail Server Utility.pdb
+c:\users\akshay khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\bin\Debug\Ionic.Zip.dll
+c:\users\akshay khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Debug\MainWindow.baml
+c:\users\akshay khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Debug\Hmail Server Utility.g.resources
+c:\users\akshay khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Debug\Hmail_Server_Utility.Properties.Resources.resources
+c:\users\akshay khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Debug\Hmail Server Utility.csproj.GenerateResource.Cache
+c:\users\akshay khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Debug\Hmail Server Utility.exe
+c:\users\akshay khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Debug\Hmail Server Utility.pdb

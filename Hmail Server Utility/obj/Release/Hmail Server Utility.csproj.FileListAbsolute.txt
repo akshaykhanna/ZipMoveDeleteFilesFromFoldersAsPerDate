@@ -1,0 +1,18 @@
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\bin\Release\Hmail Server Utility.exe.config
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\bin\Release\Hmail Server Utility.exe.manifest
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\bin\Release\Hmail Server Utility.application
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\bin\Release\Hmail Server Utility.exe
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\bin\Release\Hmail Server Utility.pdb
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\bin\Release\Ionic.Zip.dll
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Release\MainWindow.g.cs
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Release\App.g.cs
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Release\Hmail Server Utility_MarkupCompile.cache
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Release\Hmail Server Utility_MarkupCompile.lref
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Release\MainWindow.baml
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Release\Hmail Server Utility.g.resources
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Release\Hmail_Server_Utility.Properties.Resources.resources
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Release\Hmail Server Utility.csproj.GenerateResource.Cache
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Release\Hmail Server Utility.exe.manifest
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Release\Hmail Server Utility.application
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Release\Hmail Server Utility.exe
+C:\Users\Akshay Khanna\documents\visual studio 2015\Projects\Hmail Server Utility\Hmail Server Utility\obj\Release\Hmail Server Utility.pdb
